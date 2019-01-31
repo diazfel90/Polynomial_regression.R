@@ -1,1 +1,0 @@
-# Polynomial_regression.R
